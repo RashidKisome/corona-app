@@ -6,7 +6,8 @@ Project was built in React & uses other libraries such as material-ui, chartjs, 
 
 The code could use some refactoring but this was done mainly for practice purspose....
 
-..
+....
+.....
 LIVE SITE at https://rashidkisome.github.io/corona-app/
 
 .
